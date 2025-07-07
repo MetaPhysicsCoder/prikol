@@ -23,10 +23,8 @@
 | [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)|
 | [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)|
 |  Optifine|
-<br>
-world generation: (доп. нагрузка на цп при генерации)
-* [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ?
-* [RogueLike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons) ?
+| [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ?|
+| [RogueLike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons) ?|
 
 
 
