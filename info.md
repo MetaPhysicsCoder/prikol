@@ -1,6 +1,6 @@
 **Launcher**: TLauncher<br>
-**Version**: 1.12.2/1.20/1.7.10/1.8.9<br>
-**ModLoader**: Forge (Fabric 1.20)<br>
+**Version**: 1.12.2
+**ModLoader**: Forge
 **Mods**:
 * [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)
     * [Gravitation Suite](https://www.curseforge.com/minecraft/mc-mods/gravitation-suite)
@@ -21,6 +21,9 @@
 * [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)
 * [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
 *  Optifine
+world generation: (доп. нагрузка на цп при генерации)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ?
 * [RogueLike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons) ?
+
+
 
