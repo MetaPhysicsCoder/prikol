@@ -1,5 +1,5 @@
 **Launcher**: TLauncher<br>
-**Version**: 1.12.2/1.20/1.7.10/1.8.7<br>
+**Version**: 1.12.2/1.20/1.7.10/1.8.9<br>
 **ModLoader**: Forge (Fabric 1.20)<br>
 **Mods**:
 * [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)
