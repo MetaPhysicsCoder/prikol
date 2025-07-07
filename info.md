@@ -1,6 +1,6 @@
-**Launcher**: TLauncher
-**Version**: 1.12.2/1.20/1.7.10/1.8.7
-**ModLoader**: Forge (Fabric 1.20)
+**Launcher**: TLauncher<br>
+**Version**: 1.12.2/1.20/1.7.10/1.8.7<br>
+**ModLoader**: Forge (Fabric 1.20)<br>
 **Mods**:
 * [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)
     * [Gravitation Suite](https://www.curseforge.com/minecraft/mc-mods/gravitation-suite)
