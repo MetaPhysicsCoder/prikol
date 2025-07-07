@@ -3,7 +3,7 @@
 **ModLoader**: Forge<br>
 **Mods**:
 | Name |
-| --- |
+| - |
 | [Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)|
 | [Gravitation Suite](https://www.curseforge.com/minecraft/mc-mods/gravitation-suite)|
 | [Nuclear Control](https://www.curseforge.com/minecraft/mc-mods/nuclear-control-2)|
@@ -22,7 +22,8 @@
 | [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap-web-map)|
 | [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)|
 | [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)|
-|  Optifine<br>|
+|  Optifine|
+<br>
 world generation: (доп. нагрузка на цп при генерации)
 * [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ?
 * [RogueLike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons) ?
