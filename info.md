@@ -31,8 +31,6 @@
 | [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus)|
 | [Optifine](https://optifine.net/downloads)|
 | [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)|
-| [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ?|
-| [RogueLike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons) ?|
 
 
 
