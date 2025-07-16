@@ -19,6 +19,9 @@
 | [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap-web-map)|
 | [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)|
 | [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)|
+|[Thaumic Additions](https://www.curseforge.com/minecraft/mc-mods/thaumic-additions)|
+|[Thaumic Restoration](https://www.curseforge.com/minecraft/mc-mods/thaumic-restoration)|
+|[Thaumic Augmentation](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation)|
 |[Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)|
 |[Tree Chopper](https://www.curseforge.com/minecraft/mc-mods/tree-chopper)|
 |[Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights/download/2563244)|
